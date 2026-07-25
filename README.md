@@ -49,12 +49,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mrking7979/leetcode-/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mrking7979/leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mrking7979/leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/mrking7979/leetcode-/tree/master/0014-longest-common-prefix) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mrking7979/leetcode-/tree/master/0014-longest-common-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mrking7979/leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->

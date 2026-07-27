@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/mrking7979/leetcode-/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/mrking7979/leetcode-/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/mrking7979/leetcode-/tree/master/0066-plus-one) |
+| [0238-product-of-array-except-self](https://github.com/mrking7979/leetcode-/tree/master/0238-product-of-array-except-self) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/mrking7979/leetcode-/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Binary Search
 |  |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mrking7979/leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/mrking7979/leetcode-/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->

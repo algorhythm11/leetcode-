@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/mrking7979/leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/mrking7979/leetcode-/tree/master/0011-container-with-most-water) |
 ## Linked List
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mrking7979/leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/mrking7979/leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/mrking7979/leetcode-/tree/master/0014-longest-common-prefix) |
 ## Trie
 |  |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/mrking7979/leetcode-/tree/master/0238-product-of-array-except-self) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/mrking7979/leetcode-/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

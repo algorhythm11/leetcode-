@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/mrking7979/leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/mrking7979/leetcode-/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/mrking7979/leetcode-/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/mrking7979/leetcode-/tree/master/0015-3sum) |
 | [0066-plus-one](https://github.com/mrking7979/leetcode-/tree/master/0066-plus-one) |
 | [0238-product-of-array-except-self](https://github.com/mrking7979/leetcode-/tree/master/0238-product-of-array-except-self) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/mrking7979/leetcode-/tree/master/2517-maximum-tastiness-of-candy-basket) |
@@ -24,12 +25,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/mrking7979/leetcode-/tree/master/0015-3sum) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/mrking7979/leetcode-/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mrking7979/leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/mrking7979/leetcode-/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/mrking7979/leetcode-/tree/master/0015-3sum) |
 ## Linked List
 |  |
 | ------- |

@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/mrking7979/leetcode-/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/mrking7979/leetcode-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mrking7979/leetcode-/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/mrking7979/leetcode-/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/mrking7979/leetcode-/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/mrking7979/leetcode-/tree/master/0070-climbing-stairs) |
 ## Recursion
@@ -62,12 +63,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mrking7979/leetcode-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mrking7979/leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/mrking7979/leetcode-/tree/master/0012-integer-to-roman) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mrking7979/leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/mrking7979/leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/mrking7979/leetcode-/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/mrking7979/leetcode-/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/mrking7979/leetcode-/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mrking7979/leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Trie
